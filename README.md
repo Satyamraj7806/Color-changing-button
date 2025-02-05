@@ -1,5 +1,34 @@
 # Color-changing-button
 
+#html
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Color Changing Button</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <button class="color-button">Hover Over Me!</button>
+    </div>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+#css
+
+
 * {
     margin: 0;
     padding: 0;
@@ -34,4 +63,7 @@ body {
     background-color: #ff5722;
     transform: scale(1.1);
 }
+
+
+
 
